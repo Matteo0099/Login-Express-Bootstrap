@@ -1,0 +1,5 @@
+@import url('https://cssreset.tk/css-reset-v2/resetV2.css');
+
+html, body {
+  font: system-ui, sans-serif;
+}
